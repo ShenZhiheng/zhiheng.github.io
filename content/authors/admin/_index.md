@@ -3,7 +3,7 @@
 title: 申志恒
 
 # Name pronunciation (optional)
-name_pronunciation: Zhiheng Shen
+name_pronunciation: 🖥️ Zhiheng Shen 🎸
 
 # Full name (for SEO)
 first_name: Zhiheng
@@ -45,7 +45,7 @@ education:
     - course: MEng in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2022
-    - course: BSc in Geodesy and Survey Engineering
+    - course: BEng in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2019
 
@@ -54,20 +54,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: GNSS
+      - name: 🛰️ GNSS
         description: ''
         percent: 90
-        icon: satellite
-        icon_pack: fab
-      - name: Sensor
+        icon: 
+        icon_pack: fas
+      - name: 📷 Sensor
         description: ''
-        percent: 40
-        icon: sensor
+        percent: 80
+        icon:
         icon_pack: far
-      - name: Coding
+      - name: 🖥️ Coding
         description: ''
         percent: 60
-        icon: code
+        icon:
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -106,9 +106,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fab
     link: https://scholar.google.com/citations?user=6bf4frgAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Zhiheng-Shen
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5319-4839
@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-I am Zhiheng Shen 🖥️🎸, and I am currently working toward the Ph.D. degree in geodesy and survey engineering. I received the B.Eng.🎓 and M.Eng.🎓 degrees in geodesy and survey engineering in 2019 and 2022, respectively, from Wuhan University, Wuhan, China.
+I am currently working toward the Ph.D. degree in geodesy and survey engineering, in Wuhan University, Wuhan, China. I received the B.Eng.🎓 and M.Eng.🎓 degrees in geodesy and survey engineering in 2019 and 2022, respectively.
 My current research interests include Global Navigation Satellite System (GNSS) precise positioning, state estimation for robotics, resilient integration and online calibration of multi-sensors, and synergy of redundant homogeneous sensors.
 {style="text-align: justify;"}

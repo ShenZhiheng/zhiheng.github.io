@@ -1,6 +1,5 @@
 ---
-title: Improving PPP--RTK in urban environment by tightly coupled integration of GNSS
-  and INS
+title: Improving PPP--RTK in urban environment by tightly coupled integration of GNSS and INS
 authors:
 - Xin Li
 - Xingxing Li
@@ -14,4 +13,6 @@ publishDate: '2024-05-13T03:20:30.736661Z'
 publication_types:
 - article-journal
 publication: '*Journal of Geodesy*'
+featured: icon.png
+
 ---
